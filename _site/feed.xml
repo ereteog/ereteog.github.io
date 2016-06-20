@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guillaume Érétéo</title>
+    <description>Guillaume Érétéo&#39;s personal homepage.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 20 Jun 2016 17:45:27 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Jun 2016 17:45:27 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Ph.D. Thesis: Semantic Social Network Analysis</title>
+        <description>&lt;div class=&quot;post-content&quot;&gt;&lt;iframe src=&quot;http://fr.slideshare.net/slideshow/embed_code/7614858&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://fr.slideshare.net/ereteog/phd-defense-semantic-social-network-analysis&quot; title=&quot;Ph.D. defense: semantic social network analysis&quot; target=&quot;_blank&quot;&gt;Ph.D.
+defense: semantic social network analysis&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://fr.slideshare.net/ereteog&quot; target=&quot;_blank&quot;&gt;guillaume
+ereteo&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;p&gt;
+The outburst of social functionalities in web-based applications has fostered the deployment of a social media landscape where people freely contribute, gather and interact with each other. The integration of various means for publishing and socializing allows us to quickly share, recommend and propagate information to our social network, trigger reactions, and finally enrich it. These shared spaces fostered the creation and development of interest communities that publish, filter and organize directories of references in their domains at an impressive scale with very agile responses to changes.
+&lt;/p&gt;
+&lt;p&gt;
+In order to reproduce the information sharing success story of the web, more and more social platforms are deployed into corporate intranets. However, the benefit of these platforms is often hindered when the social network becomes so large that relevant information is frequently lost in an overwhelming flow of activity notifications. Organizing this huge amount of information is one of the major challenges of Web 2.0 to achieve the full potential of Enterprise 2.0, i.e., the efficient use of Web 2.0 technologies like blogs and wikis within the Intranet.
+&lt;/p&gt;
+&lt;p&gt;
+This thesis proposes to help analyzing the characteristics of the heterogeneous social networks that emerge from the use of web-based social applications, with an original contribution that leverages Social Network Analysis with Semantic Web frameworks. Social Network Analysis (SNA) proposes graph algorithms to characterize the structure of a social network and its strategic positions. Semantic Web frameworks allow representing and exchanging knowledge across web applications with a rich typed graph model (RDF), a query language (SPARQL) and schema definition frameworks (RDFS and OWL). In this thesis, we merge both models in order to go beyond the mining of the flat link structure of social graphs by integrating a semantic processing of the network typing and the emerging knowledge of online activities. In particular we investigate how (1) to bring online social data to ontology-based representations, (2) to conduct a social network analysis that takes advantage of the rich semantics of such representations, and (3) to semantically detect and label communities of online social networks and social tagging activities. 
+&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 20 Jun 2016 17:18:51 +0200</pubDate>
+        <link>http://yourdomain.com/semantic/web,/sna/2016/06/20/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/semantic/web,/sna/2016/06/20/welcome-to-jekyll.html</guid>
+        
+        
+        <category>semantic</category>
+        
+        <category>web,</category>
+        
+        <category>sna</category>
+        
+      </item>
+    
+  </channel>
+</rss>
