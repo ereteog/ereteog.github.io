@@ -3,19 +3,19 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-##2014
+## 2014
 
 [Global Initiative for Sentinel e-Health Network on Grid (GINSENG): Medical Data Integration and Semantic Developments for Epidemiology](https://hal.archives-ouvertes.fr/hal-01048737).
 S. Cipiere, G. Ereteo, A. Gaignard, N. Boujelben, S. Gaspard, et al. 
 Workshop on Clusters, Clouds and Grids for Health 2014, May 2014, Chicago, United States. pp.755 - 763, 2014. 
 
-##2013
+## 2013
 
 [ISICIL: Semantics and Social Networks for Business Intelligence](https://hal.inria.fr/hal-01171260).
 M Buffa, N Delaforge, G Erétéo, F Gandon, A Giboin, F Limpens. 
 SOFSEM 2013: 39th International Conference on Current Trends in Theory and Practice of Computer Science, Jan 2013, Czech Republic.
 
-##2011 
+## 2011 
 
 [Semtagp: semantic community detection in folksonomies](https://hal.inria.fr/hal-01170978).
 G Erétéo, F Gandon, M Buffa.
@@ -25,14 +25,14 @@ IEEE/WIC/ACM International Conferences on Web Intelligence and Intelligent Agent
 Guillaume Ereteo.
 Ph.D. Thesis, Telecom ParisTech.
 
-##2010
+## 2010
 
 [Semantic Social Network Analysis, a concrete case](https://hal.archives-ouvertes.fr/hal-00562056).
 G Erétéo, F Limpens, F Gandon, O Corby, M Buffa, M Leitzelman, P Sander.
  Handbook of Research on Methods and Techniques for Studying Virtual Communities: Paradigms and Phenomena, IGI Global, pp.122-156, 2011. 
 
 
-##2009
+## 2009
 
 [Analysis of a real online social network using semantic web frameworks](https://hal.archives-ouvertes.fr/hal-00562035).
 G Erétéo, M Buffa, F Gandon, O Corby.
@@ -58,7 +58,7 @@ W3C Workshop on the Future of Social Networking, Barcelona
 G Erétéo, F Gando, M Buffa, P Grohan.
 ANR deliverable. ISICIL-DOC-EA1-SNAetWS-20090720 .
 
-##2008 
+## 2008 
 
 [SweetWiki: A semantic wiki](https://hal.archives-ouvertes.fr/hal-01154473)
 M Buffa, F Gandon, G Ereteo, P Sander, C Faron.
@@ -72,7 +72,7 @@ Emerging Technologies for Semantic Web Environments: Techniques, Methods and App
 G Erétéo, M Buffa, FL Gandon, P Grohan, M Leitzelman, P Sander.
 Social Data On the Web 2008 (SDOW'2008), workshop at ISWC 2008.
 
-##2007 
+## 2007 
 
 Wiki et web sémantique
 M Buffa, G Ereteo, FL Gandon
