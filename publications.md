@@ -19,7 +19,7 @@ A semantic wiki. Journal of Web Semantics, Elsevier, Special issue on Semantic W
 
 [Semantic Social Network Analysis, a concrete case](https://hal.archives-ouvertes.fr/hal-00562056).
 G Erétéo, F Limpens, F Gandon, O Corby, M Buffa, M Leitzelman, P Sander.
- Handbook of Research on Meth
+Handbook of Research on Methods and Techniques for Studying Virtual Communities: Paradigms and Phenomena, IGI Global, pp.122-156, 2011.
 
 A wiki on the semantic web.
 M Buffa, G Erétéo, F Gandon.
