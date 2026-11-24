@@ -245,3 +245,19 @@
         }
     }
 }
+
+/**
+ * Home: contact line and publication lists
+ */
+.contact {
+    color: $grey-color;
+}
+
+.pubs li {
+    margin-bottom: 12px;
+}
+
+details summary {
+    cursor: pointer;
+    margin-bottom: 15px;
+}

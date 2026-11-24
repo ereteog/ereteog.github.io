@@ -11,8 +11,7 @@ title: Guillaume Érétéo
 description: > # this means to ignore newlines until "baseurl:"
   Guillaume Érétéo's personal homepage.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: ereteog
+url: "https://ereteog.github.io" # the base hostname & protocol for your site
 github_username:  ereteog
 linkedin_username: Guillaume Érétéo
 linkedin_userid:   guillaume-ereteo-1313133
